@@ -46,6 +46,7 @@ def stealth_syn_scan(ip_scan, debut_port, fin_port):
 choix=input("Veux choisir le programme a lancer 1 ou 2 \n")
 if choix == "1":
    #Pour exécuter un SYN scan sur la plage de ports 50 à 1024
+   #Modification de l'ip
   ip = "192.168.1.1"
   timeout = 1 # Délai en secondes
   for port in range(50, 1024):
