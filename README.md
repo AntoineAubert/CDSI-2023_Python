@@ -1,1 +1,4 @@
 # CDSI-2023_Python
+
+Lors de ma formation au sein du Master Réseaux et Télécommunication parcours Cyber-sécurité, Défense des Systèmes d'Information, j'ai eu l'opportunité de suivre un cours sur la programmation en Python avec mon professeur, Franck Ebel. Cet exercice a été très instructif et m'a permis de développer mes compétences en matière de programmation et de renforcer mes connaissances en cyber-sécurité.
+Au cours de cet exercice, nous avons appris à utiliser Python pour créer des scripts de sécurité qui peuvent aider à détecter et à prévenir les attaques informatiques. Nous avons également exploré les différentes bibliothèques Python disponibles pour la cyber-sécurité, telles que la bibliothèque Scapy pour la manipulation de paquets réseau, et la bibliothèque PyCrypto pour le chiffrement et le décryptage de données.
